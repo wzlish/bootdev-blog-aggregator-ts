@@ -1,0 +1,26 @@
+{
+  "name": "bootdev-blog-aggregator-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzlish/bootdev-blog-aggregator-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzlish/bootdev-blog-aggregator-ts/issues"
+  },
+  "homepage": "https://github.com/wzlish/bootdev-blog-aggregator-ts#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2"
+  }
+}
